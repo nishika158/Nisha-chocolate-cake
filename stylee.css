@@ -1,0 +1,18 @@
+/*selector{
+	property: value;
+}*/
+body {
+	background-image: url( https://th.bing.com/th/id/OIP.Js71kDFwkGl7YHM7Z491zAHaE7?w=1005&h=906&c=7&o=5&dpr=1.25&pid=1.7 );
+	  background-size: cover;
+}
+h2,p{
+	color: red;
+	 
+	border: 5p solid red;
+ 
+ 
+	text-decoration: underline;
+	line-height: 50px;
+	font-weight: bold;
+	font-family: georgia;
+}

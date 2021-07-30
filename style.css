@@ -1,0 +1,21 @@
+/*selector{
+	property: value;
+}*/
+body {
+	background-image: url( https://th.bing.com/th/id/OIP.poTWhifcDDEbHGT7CIBvvgHaKi?w=300&h=400&c=7&o=5&dpr=0.5&pid=0.2 );
+	  background-size: cover;
+}
+h2,h1,p{
+	color: green;
+	text-align: center;
+	border: 5p solid red;
+}
+p{
+	color: grey;
+	text-decoration: underline;
+	line-height: 50px;
+	font-weight: bold;
+	font-family: georgia;
+}
+ 
+ 
